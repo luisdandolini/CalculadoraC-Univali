@@ -1,0 +1,10 @@
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe.config
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.pdb
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.AssemblyReference.cache
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.Form1.resources
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.Properties.Resources.resources
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.GenerateResource.cache
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.exe
+C:\Users\gerso\source\repos\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.pdb
